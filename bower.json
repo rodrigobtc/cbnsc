@@ -1,0 +1,27 @@
+{
+  "name": "CBN Santa Catarina",
+  "homepage": "https://github.com/rodrigobtc/cbnsc",
+  "authors": [
+    "Rodrigo Bittencourt Cabral"
+  ],
+  "description": "Site da Convenção Batista Nacional de Santa Catarina",
+  "main": "index.php",
+  "keywords": [
+    "convencao",
+    "batista",
+    "nacional",
+    "santa",
+    "catarina"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
