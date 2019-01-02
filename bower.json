@@ -5,7 +5,7 @@
     "Rodrigo Bittencourt Cabral"
   ],
   "description": "Site da Convenção Batista Nacional de Santa Catarina",
-  "main": "index.php",
+  "main": "index.html",
   "keywords": [
     "convencao",
     "batista",
@@ -20,8 +20,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "^4.2.1"
-  }
+  ]
 }
