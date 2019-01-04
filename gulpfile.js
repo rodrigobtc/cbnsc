@@ -10,8 +10,8 @@ gulp.task('sass', function () {
 	});
 
 //task para o watch
-gulp.task('watch', function () {
-    gulp.watch('sass/*.sass', gulp.series['sass']);
+gulp.task('watch', function(){
+    gulp.watch('sass/**/*.sass', gulp.series(sass));
 });
 
 gulp.task('default', function(){
